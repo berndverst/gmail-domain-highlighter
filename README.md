@@ -11,3 +11,6 @@ Simply mark all email addresses outside of your company as red, use the followin
 ^((?!(company.com|companyalias.com)).)*$
 ```
 where company.com and companyalias.com are email domains of your company.
+
+This extension is available in the Chrome Webstore at:
+https://chrome.google.com/webstore/detail/gmail-domain-highlighter/ajfgpjfndlbicmphdbgbhcfjmmbkcbpa
