@@ -1,6 +1,6 @@
 # Gmail Domain Highlighter
 
-Automatically highlights email addresses based on their domain in Gmail.
+Automatically color highlights senders and recipients based on their email address domain in Gmail.
 
 You can define three domain RegEx patterns (including negation) to highlight email address in red, blue or green.
 
